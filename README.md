@@ -1,6 +1,6 @@
 ---
 
-# 👋 Welcome to Mohamed Elashmony's GitHub Profile!  
+# Welcome to Mohamed Elashmony's GitHub Profile!  
 
 **Sophomore at Khalifa University**  
 - Major: Applied Mathematics, Statistics, and Data Science  
