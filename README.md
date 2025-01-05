@@ -2,7 +2,7 @@
 
 # 👋 Welcome to Mohamed Elashmony's GitHub Profile!  
 
-🎓 **Sophomore at Khalifa University**  
+**Sophomore at Khalifa University**  
 - Major: Applied Mathematics, Statistics, and Data Science  
 - Minor: Artificial Intelligence  
 
