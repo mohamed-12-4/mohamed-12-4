@@ -27,9 +27,8 @@ RNN-based model leveraging wavelet features for improved classification of heart
 
 
 ## 🌱 Currently Learning  
-- Deep learning techniques for genomics and healthcare  
-- Quantum computing frameworks like Qiskit  
-- Advanced astrophysics simulations  
+- Deep learning
+- Quantum computing
 
 
 
