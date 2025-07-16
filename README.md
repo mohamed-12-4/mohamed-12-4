@@ -22,15 +22,15 @@ An interactive web application simulating the solar system and providing detaile
   - Community page powered by **Firebase**  
   - AI chatbot integrated with **NASA APIs** for asteroid insights  
 
-# StudyGenius AI
+### StudyGenius AI
 
 StudyGenius AI is a generative AI-powered study assistant designed to help students learn faster and more effectively.
 
-## Features
-- 📄 Summarizes long content into concise, readable notes
-- 🧠 Automatically generates smart flashcards for revision
-- ❓ Answers context-aware questions based on uploaded material
-- 🖥️ Full-stack implementation using modern web technologies and large language models
+- **Features:**
+  - 📄 Summarizes long content into concise, readable notes
+  - 🧠 Automatically generates smart flashcards for revision
+  - ❓ Answers context-aware questions based on uploaded material
+  - 🖥️ Full-stack implementation using modern web technologies and large language models
 
 Built during the GenAI Hackathon to solve real student learning challenges with practical AI.
 
